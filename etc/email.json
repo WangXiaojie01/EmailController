@@ -1,0 +1,19 @@
+{
+    "email_hosts": "smtp.qq.com",
+    "email_senders": {
+        "default": {
+        "11111111@qq.com": "aaaaaaaaa"
+        }
+    },
+	"name_email_map": {
+        "default": {
+            "小杰": "222222222@qq.com",
+            "小明": "33333333@qq.com"
+        }
+    },
+    "email_receivers": {
+        "test1": "小杰,小明",
+        "default": "小杰"
+    }
+    
+}
